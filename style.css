@@ -1,11 +1,10 @@
 body {
   margin: 0;
   font-family: EB Garamond;
-  padding-left: calc(50% - 19em);
-  padding-right: calc(50% -  19em);
+  padding-left: max(calc(50% - 19em), 5%);
+  padding-right: max(calc(50% - 19em), 5%);
   font-size: 1.2em;
 }
-
 
 h1{
     text-align: center;
