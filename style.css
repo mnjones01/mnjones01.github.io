@@ -1,15 +1,16 @@
 body {
   margin: 0;
   font-family: EB Garamond;
-  padding-left: max(calc(50% - 19em), 5%);
-  padding-right: max(calc(50% - 19em), 5%);
+  padding-left: max(calc(50% - 19em), 10%);
+  padding-right: max(calc(50% - 19em), 10%);
   font-size: 1.2em;
 }
+
 
 h1{
     text-align: center;
     font-weight: 400;
-	font-size: 56pt;
+	font-size: 48pt;
 	font-variant: small-caps;
 	border: none;
 	border-bottom: 1px solid black;
